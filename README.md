@@ -1,5 +1,5 @@
 Quinet
-== == =
+=====
 
 Quinet是一个简单的客户端网络并发框架, 其基于Python的gevent库(即协程), 并兼容Python2和Python3。Quinet旨在让任何一个Python开发者只需几行代码即可享受网络高并发带来的效率和乐趣.
 
