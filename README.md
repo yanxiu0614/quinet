@@ -16,11 +16,9 @@ git clone https://github.com/yanxiu0614/quinet.git
 ```
 from quinet import Quinet
 
-
 def get_num(num):
     time.sleep(10)
     print(num)
-
 
 client = Quinet(method=get_num)
 
@@ -36,4 +34,4 @@ client.run()
 Links
 -----
 
-* Website: http: // www.gevent.org
+* Website: http://www.gevent.org
