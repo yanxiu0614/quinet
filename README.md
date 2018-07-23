@@ -7,7 +7,7 @@ Quinet是一个简单的客户端网络并发框架, 其基于Python的gevent库
 安装
 ----------
 
-git clone https: // github.com / yanxiu0614 / quinet.git
+git clone https://github.com/yanxiu0614/quinet.git
 
 
 示例
