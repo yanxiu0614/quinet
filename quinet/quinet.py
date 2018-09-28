@@ -8,7 +8,7 @@
 
 import sys
 
-from quinet.quinetexception import QuinetException
+from quinetexception import QuinetException
 
 import gevent.pool
 from gevent import monkey
